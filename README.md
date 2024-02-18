@@ -5,7 +5,7 @@ This repo holds my solutions for [Advent of Code](https://adventofcode.com/)
 ## Progress
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2023 - 26 ⭐
+  2023 - 28 ⭐
 </h1>
 <a href="2023/1/part1.py">
   <img src=".aoc_tiles/tiles/2023/01.png" width="161px">
@@ -45,5 +45,8 @@ This repo holds my solutions for [Advent of Code](https://adventofcode.com/)
 </a>
 <a href="2023/13/part1.py">
   <img src=".aoc_tiles/tiles/2023/13.png" width="161px">
+</a>
+<a href="2023/14/part1.py">
+  <img src=".aoc_tiles/tiles/2023/14.png" width="161px">
 </a>
 <!-- AOC TILES END -->
